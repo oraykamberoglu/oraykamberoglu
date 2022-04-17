@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  Oray KAMBEROĞLU is here. 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oray-kambero%C4%9Flu-0b22a695?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz7Ggzj22QM%2B7WVeVGPUmMg%3D%3D) 
-<a href="https://Odabasimehmet.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=oraykamberoglu" alt="visitor counter"/>
+<a href="https://oraykamberoglu.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=oraykamberoglu" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠     
